@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-
-<br/>
-
-<a href="https://github.com/invilso">
-<img src="https://github-readme-stats.vercel.app/api?username=invilso&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/invilso?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invilso&theme=dracula&card_width=467" />
-</a>
-
-</p>
 
 <!--
 **invilso/invilso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
