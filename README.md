@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div align="center">
   <a href="https://github.com/invilso">
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=invilso&theme=catppuccin_mocha&card_width=467" />
   </a>
 </div>
+-->
