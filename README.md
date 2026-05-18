@@ -1,5 +1,3 @@
-# Artur Shcherban
-
 Backend engineer with 4+ years building scalable SaaS systems.  
 Strong focus on multi-tenant architecture, PostgreSQL performance, and test coverage.
 
